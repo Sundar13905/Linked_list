@@ -1,6 +1,12 @@
 # **Linked List in C++**
 # Experiment 17 To study and implement Linked List
 
+## Aim: - 
+To run and execute a menu style code of linked list 
+
+
+## Theory
+
 A **Linked List** is a linear data structure where elements, called **nodes**, are stored in sequence, but unlike arrays, they are not stored in contiguous memory locations. Each node contains two parts:
 1. **Data**: The value or data of the node.
 2. **Pointer**: A reference (or pointer) to the next node in the sequence.
