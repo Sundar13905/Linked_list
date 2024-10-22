@@ -201,5 +201,23 @@ int main() {
 
 ![](https://github.com/Sundar13905/Linked_list/blob/main/linked_list.png)
 
+
+
+
+
+
+
+![](https://github.com/Sundar13905/Linked_list/blob/main/Sundar_Cl.jpeg)
+
+
+
+
+
+
+
+
+
+![]()
+
 ## Conclusion
 We learnt how to implement single linked list in c++
